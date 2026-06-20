@@ -1,158 +1,76 @@
-# 🤖 AIS Lab – Robot Manipulation and Simulation Research
+# 🦾 Robotic Manipulator Control & Simulation
 
-> Research on **robot manipulation, human–robot interaction (HRI), robot control, and simulation-based validation** using modern robotics software and hardware platforms.
+> Integrated manipulator robotics project combining coursework, ROS-based training, and AIS Lab research experience.
 
 ---
 
 ## 📖 Overview
 
-As a member of the AIS Lab, I studied robotic manipulation and control with a focus on **human–robot interaction (HRI)** and simulation-driven robotic system development.
+This project summarizes my experience in robotic manipulator modeling, control, simulation, and validation.
 
-My research emphasized understanding how robot behavior can be designed, validated, and transferred from simulation to physical hardware. Through both virtual and real-world experiments, I gained experience in robot control, simulation environments, and safety-aware validation methodologies.
+The project integrates three major experiences:
 
----
+- **Robotics Course**: Fundamental kinematics, dynamics, trajectory generation, and manipulator control
+- **ROS Bootcamp at Seoul National University**: ROS-based robot software structure, simulation, and motion control practice
+- **AIS Lab Research Experience**: Human–robot interaction, SILS-based validation, and hardware experiments using robotic platforms
 
-# 🔬 Research Areas
-
-- Robot Manipulation
-- Human–Robot Interaction (HRI)
-- Robot Control
-- Simulation-Based Validation
-- Robot Dynamics
-- System Integration
+Through these experiences, I developed a systems-level understanding of how robotic manipulators are modeled, controlled, simulated, and validated before deployment on real hardware.
 
 ---
 
-# 🚀 Research Activities
+## 🧩 Project Components
 
-## 🤝 Robot Manipulator Control for HRI
-
-Studied robot manipulator control for human–robot interaction (HRI), focusing on safe and compliant robot behavior.
-
-### Highlights
-
-- Studied robot kinematics and dynamics
-- Learned manipulator control strategies
-- Explored compliant robot motion
-- Developed a systems-level understanding of robotic behavior
-- Investigated safety-aware interaction between humans and robots
+| Area | Description |
+|---|---|
+| Manipulator Kinematics | Studied forward/inverse kinematics and coordinate transformations |
+| Trajectory Planning | Generated joint-space and task-space trajectories |
+| Control | Implemented basic position, velocity, and impedance control concepts |
+| ROS Integration | Built ROS-based manipulator simulation and control workflows |
+| Simulation | Used Gazebo / CoppeliaSim-based environments for validation |
+| Hardware Validation | Conducted experiments on robotic manipulator platforms such as Franka Emika Panda |
+| HRI Perspective | Studied safe and compliant robot behavior for human–robot interaction |
 
 ---
 
-## 🖥️ Simulation-Based Validation
+## 🔧 Technical Stack
 
-Developed simulation environments to validate robotic systems before hardware deployment.
-
-### Highlights
-
-- Built Software-in-the-Loop Simulation (SILS) environments
-- Compared simulation platforms across different robotics domains
-- Validated robot control algorithms before hardware transfer
-- Improved development efficiency through virtual testing
-
-### Simulation Platforms
-
-- CARLA
-- X-Plane
-- ROS2 Gazebo
-- CoppeliaSim
+- **Languages**: Python, C++, MATLAB
+- **Robotics Middleware**: ROS, ROS2
+- **Simulation**: Gazebo, CoppeliaSim, RViz
+- **Control**: PID Control, Trajectory Tracking, Impedance Control
+- **Robot Platform**: Franka Emika Panda
+- **Concepts**: Forward Kinematics, Inverse Kinematics, Jacobian, Dynamics, Motion Planning, HRI
 
 ---
 
-## 🦾 Hardware Validation
+## 🧠 What I Learned
 
-Performed experimental validation on an industrial robot manipulator.
-
-### Platform
-
-- Franka Emika Panda
-
-### Highlights
-
-- Conducted impedance control experiments
-- Evaluated controller performance on physical hardware
-- Followed safety-aware testing procedures
-- Verified simulation-to-hardware transfer
+- Built a foundation in robotic manipulator kinematics, dynamics, and control
+- Gained hands-on experience with ROS-based robot software architecture
+- Practiced simulation-first validation before hardware deployment
+- Understood the importance of safety, compliance, and validation in human–robot interaction
+- Developed a broader perspective on connecting theory, simulation, and real robotic systems
 
 ---
 
-# ⚙️ Technical Skills
+## 📌 Role & Contributions
 
-## Robotics
-
-- ROS2
-- Gazebo
-- CoppeliaSim
-- CARLA
-- X-Plane
-
-## Programming
-
-- C++
-- Python
-- MATLAB
-
-## Robot Control
-
-- Impedance Control
-- Robot Kinematics
-- Robot Dynamics
-- Motion Control
-
-## Development
-
-- Ubuntu Linux
-- Git
+- Studied core manipulator theory through robotics coursework
+- Implemented ROS-based manipulator examples during Seoul National University ROS Bootcamp
+- Built and tested simulation environments for robotic system validation
+- Conducted hardware-level manipulator experiments in AIS Lab
+- Explored safe robot behavior and control strategies for HRI applications
 
 ---
 
-# 📂 Repository Structure
+## 🚀 Research Direction
 
-```text
-AIS-Lab/
-│
-├── Manipulator-Control/
-│   ├── Kinematics
-│   ├── Dynamics
-│   ├── Impedance-Control
-│   └── Experiments
-│
-├── Simulation/
-│   ├── CARLA
-│   ├── XPlane
-│   ├── Gazebo
-│   └── CoppeliaSim
-│
-├── Hardware-Validation/
-│   ├── Franka-Panda
-│   ├── Experiments
-│   └── Results
-│
-└── Documentation/
-```
+This project strengthened my interest in reliable robotic manipulation systems that integrate:
 
----
+- motion planning
+- control
+- simulation-based validation
+- safe physical interaction
+- human-centered robotic applications
 
-# 🎯 Research Interests
-
-My research interests focus on developing robotic systems that can be reliably validated through simulation and safely deployed on physical platforms.
-
-Areas of interest include:
-
-- Robot Manipulation
-- Human–Robot Interaction
-- Motion Control
-- Simulation-Based Validation
-- Sim-to-Real Transfer
-- Autonomous Robotic Systems
-
----
-
-# 📈 Future Directions
-
-- Learning-based Manipulation
-- Whole-Body Robot Control
-- Human-Robot Collaboration
-- Sim-to-Real Learning
-- Autonomous Robotic Systems
-- Embodied AI
+It became an important foundation for my later work in assistive robotics, autonomous systems, and emergency robotic planning.
