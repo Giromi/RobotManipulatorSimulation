@@ -5,6 +5,8 @@
 ---
 
 ## 📖 Overview
+<img width="320" height="240" alt="certasian_Planner" src="https://github.com/user-attachments/assets/99fde2de-a86c-42c4-9fec-4d861cf2bb82" />
+<img width="320" height="240" alt="follow_target" src="https://github.com/user-attachments/assets/61cd5fc3-31cf-41a0-8127-a5667f70d643" />
 
 This project summarizes my experience in robotic manipulator modeling, control, simulation, and validation.
 
