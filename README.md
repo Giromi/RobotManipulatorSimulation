@@ -1,4 +1,4 @@
-<img width="320" height="240" alt="1_raw_render" src="https://github.com/user-attachments/assets/fad89985-3886-4355-9d41-9b202893e58f" /># 🦾 Robotic Manipulator Control & Simulation
+# 🦾 Robotic Manipulator Control & Simulation
 
 > Integrated manipulator robotics project combining coursework, ROS-based training, and AIS Lab research experience.
 
@@ -7,7 +7,9 @@
 ## 📖 Overview
 
 <img width="320" height="240" alt="1_raw_render" src="https://github.com/user-attachments/assets/e8c8ad74-af87-472b-b11a-33ee277e607f" />
+
 <img width="320" height="240" alt="certasian_Planner" src="https://github.com/user-attachments/assets/99fde2de-a86c-42c4-9fec-4d861cf2bb82" />
+
 <img width="320" height="240" alt="follow_target" src="https://github.com/user-attachments/assets/61cd5fc3-31cf-41a0-8127-a5667f70d643" />
 
 
